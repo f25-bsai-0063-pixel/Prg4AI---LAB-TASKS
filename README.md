@@ -6,9 +6,9 @@ A collection of beginner-friendly lab tasks covering core Object-Oriented Progra
 
 ```
 python-oop-lab-tasks/
-├── task1_inheritance.py
-├── task2_class_and_object.py
-├── task3_polymorphism.py
+├── TASK-1.py
+├── TASK-2.py
+├── TASK-3.py
 └── README.md
 ```
 
@@ -16,9 +16,9 @@ python-oop-lab-tasks/
 
 | File | Concept | Description |
 |------|---------|-------------|
-| `task1_inheritance.py` | Inheritance, `super()` | `Student` is the parent class (name, age, course). `Graduate` inherits from it and adds `research_topic`, reusing the parent's `display()` through `super()`. |
-| `task2_class_and_object.py` | Classes & Objects | A basic `student` class with a constructor (`__init__`) and a `display()` method. An object is created and its details are printed. |
-| `task3_polymorphism.py` | Polymorphism, Method Overriding | `card_payment` inherits from `cash_payment` and overrides `pay()`. A loop calls `pay()` on each class, showing different behavior for the same method name. |
+| `TASK-1.py` | Inheritance, `super()` | `Student` is the parent class (name, age, course). `Graduate` inherits from it and adds `research_topic`, reusing the parent's `display()` through `super()`. |
+| `TASK-2.py` | Classes & Objects | A basic `student` class with a constructor (`__init__`) and a `display()` method. An object is created and its details are printed. |
+| `TASK-3.py` | Polymorphism, Method Overriding | `card_payment` inherits from `cash_payment` and overrides `pay()`. A loop calls `pay()` on each class, showing different behavior for the same method name. |
 
 ## Concepts Covered
 
