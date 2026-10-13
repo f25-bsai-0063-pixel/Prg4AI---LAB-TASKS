@@ -34,12 +34,12 @@ python-oop-lab-tasks/
 Requires Python 3.x. Clone the repository, then run any task:
 
 ```bash
-git clone https://github.com/<your-username>/python-oop-lab-tasks.git
-cd python-oop-lab-tasks
+git clone https://github.com/<your-username>/LAB-6.py
+cd Lab-6
 
-python task1_inheritance.py
-python task2_class_and_object.py
-python task3_polymorphism.py
+python TASK-1.py
+python TASK-1.py
+python TASK-3.py
 ```
 
 ## Expected Output
